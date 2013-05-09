@@ -1,20 +1,9 @@
 <?php include "head.php" ?>
-            <li class="m1"><a href="index.php">Начало</a></li>
-            <li class="m3"><a href="about-us.php" class="active">За родители</a></li>
-            <li class="m6"><a href="services.php">За ученици</a></li>
-            <li class="m4"><a href="support.php">За ПГЕХТ</a></li>
-            <li class="m5"><a href="contact-us.php">За учители</a></li>
-            <li class="m6"><a href="sitemap.php">Галерия</a></li>
-			<li class="m3"><a href="sitemap.php">Администрация</a></li>
-			<li class="m4"><a href="sitemap.php">Галерия</a></li>
-          </ul>
-        </div>
-        <div class="row-3">dadasdadadadad
-        </div>
+        <div class="row-3"><h3><a href="#">dasdasd</a></h3></div>
       </div>
       <!-- CONTENT -->
       <div id="content">
-        <div class="inner_copy">More <a href="#">Website Templates</a> @ Templates.com!</div>
+        <div class="inner_copy">More <a href="#">Website Templates</a></div>
         <div class="tail-right">
           <div class="wrapper">
             <div class="col-1">
