@@ -1,0 +1,51 @@
+<settings>
+  <General_Properties>
+    <maximize value="false"/>
+    <componentWidth value="566"/>
+    <componentHeight value="583"/>
+    <stretchWidth value="false"/>
+    <stretchHeight value="false"/>
+    <columns value="5"/>
+    <radius value="100"/>
+    <easing value="5"/>
+    <enlargeEase value="6"/>
+    <pictureDistance value="18"/>
+    <minThumbWidth value="100"/>
+    <minThumbHeight value="100"/>
+    <maxThumbWidth value="280"/>
+    <maxThumbHeight value="210"/>
+    <backgroundColor value="0xffffff"/>
+    <backgroundAlpha value="1"/>
+    <maximizeBgColor value="0x000000"/>
+    <maximizeBgAlpha value="0.4"/>
+    <arrowURL value="assets/skins/skin/arrow2.png"/>
+    <useColorbox value="false"/>
+    <style value="assets/css/style3.css"/>
+    <assets value="images3.php"/>
+    <showAbout value="true"/>
+  </General_Properties>
+  <Colorbox_Properties>
+    <transition value="elastic"/>
+    <innerWidth value="900"/>
+    <innerHeight value="500"/>
+    <slideshow value="false"/>
+    <slideshowSpeed value="2500"/>
+  </Colorbox_Properties>
+  <Image_Properties>
+    <borderColor value="0xffffff"/>
+    <borderAlpha value="1"/>
+    <borderWidth value="1"/>
+  </Image_Properties>
+  <Tooltip_Properties>
+    <backgroundColor value="0x333333"/>
+    <backgroundAlpha value="0.8"/>
+    <cornerRadius value="5"/>
+    <embedFont value="false"/>
+  </Tooltip_Properties>
+  <DescriptionText_Properties>
+    <backgroundColor value="0x333333"/>
+    <backgroundAlpha value="0.4"/>
+    <cornerRadius value="0"/>
+    <embedFont value="false"/>
+  </DescriptionText_Properties>
+</settings>

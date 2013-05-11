@@ -32,7 +32,8 @@
       <div id="footer">
         <div class="indent">
           <div class="fleft">Designed by: Marketplace</div>
-          <div class="fright">Copyright - Hrr</div>
+		 <div class="fright"><h3> <?php echo date("j/F/Y G:i:s", time());  ?></h3></div>
+		 <div class="fright">@Copyright - Hrr</div>
         </div>
       </div>
     </div>

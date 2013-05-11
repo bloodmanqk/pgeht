@@ -11,7 +11,6 @@
       </div>
       <!-- CONTENT -->
       <div id="content">
-        <div class="inner_copy">More <a href="#">Website Templates</a> @ Templates.com!</div>
         <div class="tail-right">
           <div class="wrapper">
             <div class="col-1">
